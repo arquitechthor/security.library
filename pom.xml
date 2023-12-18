@@ -19,8 +19,8 @@
 	</properties>
 	<distributionManagement>
 		<repository>
-			<id>securitylib</id>
-			<name>A library to connect easily to MAP Security backend system</name>
+			<id>github</id>
+			<name>GitHub arquitechthor Apache Maven Packages</name>
 			<url>https://maven.pkg.github.com/arquitechthor/security.library</url>
 		</repository>
 	</distributionManagement>
